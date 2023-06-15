@@ -4,7 +4,7 @@
  * @returns { void }
  */
 function main() {
-  console.log('This is the main function.');
+  console.log('Following are the operations:');
   console.log('Addition of one and two.', add(1, 2));
 }
 
