@@ -5,6 +5,7 @@
  */
 function main() {
   console.log('This is the main function.');
+  console.log('Addition of one and two.', add(1, 2));
 }
 
 /**
